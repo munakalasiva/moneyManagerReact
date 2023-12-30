@@ -1,0 +1,22 @@
+.list-item {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin: 10px;
+  border: 1px solid grey;
+}
+.imgs {
+  height: 25px;
+  width: 25px;
+  margin-top: 15px;
+  border: none;
+  background-color: white;
+}
+.p {
+  margin-right: 30px;
+}
+.para {
+  margin-left: 30px;
+}
